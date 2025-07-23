@@ -16,8 +16,6 @@ Technologies used:
 - SciPy: Acquisition function optimization using L-BFGS-B
 
 Author: Yoshitaka Furuya
-
-Author: Yoshitaka Furuya
 """
 
 import numpy as np
